@@ -1,7 +1,6 @@
 <h1 align="left" id="251dream-title">:wave: Hi there!</h1>
 
-### 💻 Languages and Tools:
-<h2 align="left" id="251dream-languages-and-tools">🔨 Languages and Tools</h2>
+<h2 align="left" id="251dream-languages-and-tools">🔨💻 Languages and Tools</h2>
 
 <table>
   <tr>
