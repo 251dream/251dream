@@ -34,6 +34,12 @@
       </a>
       <br>Git
     </td>
+    <td align="center" width="96"> 
+          <a href="https://www.postgresql.org/" >
+            <img src="./img/postgresql.png" width="48" height="48" alt="Git" />
+          </a>
+          <br>PostgreSQL
+    </td>
 </table>
 
 
